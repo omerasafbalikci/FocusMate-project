@@ -6,7 +6,6 @@ import { getSessions } from '../utils/storage';
 
 const screenWidth = Dimensions.get("window").width;
 
-// Report screen showing statistics and charts
 export default function ReportsScreen() {
   const [stats, setStats] = useState({
     todayTime: 0,
