@@ -56,5 +56,9 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
    git clone [https://github.com/omerasafbalikci/FocusMate-project.git]
    cd focus-mate
    npm install
-   npx expo start```
-   
+   npx expo start
+   ```
+
+## Geliştirici
+
+Ömer Asaf Balıkçı - B221210083
